@@ -1,8 +1,7 @@
 ## Halo! Saya Risqi Tarawiyah
 
-** Saya adalah lulusan D3 Teknologi Informasi dari Politeknik Aceh yang memiliki antusiasme tinggi dalam pengembangan perangkat lunak, riset teknologi, serta pemecahan masalah.
-Berpengalaman dalam pengembangan Full-Stack Web, Mobile Programming, dan Data Science, melalui berbagai program pelatihan profesional dan proyek akhir yang melibatkan penerapan teknologi modern.
-Saya terbiasa bekerja dalam tim, aktif dalam organisasi, dan memiliki kemampuan analitis yang kuat.
+Saya adalah lulusan D3 Teknologi Informasi dari Politeknik Aceh yang memiliki antusiasme tinggi dalam pengembangan perangkat lunak, riset teknologi, serta pemecahan masalah.
+Berpengalaman dalam pengembangan Full-Stack Web, Mobile Programming, dan Data Science, melalui berbagai program pelatihan profesional dan proyek akhir yang melibatkan penerapan teknologi modern. Saya terbiasa bekerja dalam tim, aktif dalam organisasi, dan memiliki kemampuan analitis yang kuat.
 
 🎓 Pendidikan
 D3 Teknologi Informasi Politeknik Aceh – Banda Aceh
